@@ -11,7 +11,7 @@ A 5-page café website built with HTML, CSS, and JavaScript, showcasing the menu
 - `contact.html` — Contact form, business info
 
 ## Features
-- Warm espresso/caramel themed design with glassmorphism cards
+- Warm espresso/caramel/brown themed design with glassmorphism cards
 - Responsive hero with logo
 - Anchor-linked menu → coffee detail navigation
 - Fully responsive layout
